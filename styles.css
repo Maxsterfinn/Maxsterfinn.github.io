@@ -1,0 +1,21 @@
+body {
+    background-color: powderblue;
+	text-align: center;
+}
+h1 {
+	font-family: Palatino, 'Palatino Linotype', serif;
+    color: #E6DADA;
+	font-size: 60px
+}
+p {
+	margin: 0;
+	border: 2px solid black;
+    color: white;
+}
+.main {padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("http://appflower.com/wp-content/uploads/2016/06/prog-languages.png");
+  background-size: cover;
+  color: #ffffff;
+}
